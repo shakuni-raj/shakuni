@@ -1,2 +1,2 @@
 # shakuni
-This is myGit Repository
+This is my Git Repository
